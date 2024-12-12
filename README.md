@@ -11,10 +11,10 @@
 **推荐指数：** 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟（极力推荐）
 
 **工具介绍：**
-Cursor是一款强大的AI编程助手，旨在帮助开发者提高编码效率。它能够自动生成代码、提供代码建议、优化现有代码，并支持多种编程语言。无论是初学者还是资深开发者，Cursor都能大幅提升编程体验。
+Cursor是一款强大的自然语言编程助手，会打字就能开发软件。
 
-**如何白嫖：**
-1. 访问Cursor官网：[cursor.com](https://www.cursor.com/)
+**如何获取：**
+1. 访问Cursor官网：[cursor](https://www.cursor.com/)
 2. 注册一个新账号。
 3. 下载Cursor软件。
 4. 在软件内进行登录。
@@ -39,9 +39,9 @@ Cursor是一款强大的AI编程助手，旨在帮助开发者提高编码效率
 **推荐指数：** 🌟🌟🌟🌟🌟（可作为Cursor的备胎）
 
 **工具介绍：**
-Windsurf也是一款强大的AI编程助手，旨在帮助开发者提高编码效率。它能够自动生成代码、提供代码建议、优化现有代码，并支持多种编程语言。
+Windsurf也是一款强大的自然语言编程助手，可作为cursor的备胎。
 
-**如何白嫖：**
+**如何获取：**
 1. 访问Windsurf官网：[windsurf](https://codeium.com/windsurf)
 2. 注册一个新账号。
 3. 下载Windsurf软件。
@@ -61,7 +61,7 @@ Windsurf也是一款强大的AI编程助手，旨在帮助开发者提高编码�
 **工具介绍：**
 SiliconFlow是一个在线AI模型平台，它提供了目前所有开源大模型的体验以及API服务，显卡不好也能跑百亿级大模型。
 
-**如何白嫖：**
+**如何获取：**
 1. 访问SiliconFlow官网：[siliconflow](https://siliconflow.cn/zh-cn/)
 2. 用手机号进行注册（国内即可）。
 3. 填写邀请码 `b3aPzW1A`（大家觉得有用就多用我的邀请码，感谢！！！）。
@@ -77,9 +77,9 @@ SiliconFlow是一个在线AI模型平台，它提供了目前所有开源大模�
 **推荐指数：** 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟（第一个免费的视觉模型以及API，致敬质谱！！！）
 
 **产品介绍：**
-质谱AI最新免费模型是一款专为质谱数据分析设计的AI工具。它能够自动识别和解析质谱数据，提供高精度的结果分析，广泛应用于生物医学、化学研究等领域。
+质谱AI是国内最好的视觉识别模型提供机构，并且也是世界上第一个提供免费完全免费的视觉大模型API的机构，致敬！！！
 
-**如何获取（注意不是白嫖）：**
+**如何获取：**
 1. 访问质谱AI官网：[质谱AI开放平台](https://www.bigmodel.cn/invite?icode=jr%2FlON11LFYxOWzfRSnoruZLO2QH3C0EBTSr%2BArzMw4%3D)
 2. 用手机号注册。
 3. 点击控制台即可选择模型进行使用。
@@ -95,7 +95,7 @@ SiliconFlow是一个在线AI模型平台，它提供了目前所有开源大模�
 **软件介绍：**
 Chatbox是一款大模型对话平台，可以调用几乎所有平台的大模型的API，页面机器简介明了，功能也很丰富，隐私性很强。
 
-**如何使用：**
+**如何获取：**
 1. 去github找到这款软件：[chatbox](https://github.com/Bin-Huang/chatbox)
 2. 点亮一颗小星星
 3. 然后在[release](https://github.com/Bin-Huang/chatbox/releases/tag/v0.10.2)界面下载并安装
@@ -105,4 +105,6 @@ Chatbox是一款大模型对话平台，可以调用几乎所有平台的大模�
 - 有些模型不是多模态，不能进行文件和图像的输入（强行输入会报错）
 - GLM-4-Flash不能进行图片的输入，GLM-4V-Flash可以输入图片
 
+**API调用试例：**
+![Chatbox_api](https://github.com/CodermanYHZ/BaiPiao/blob/main/image/chatbox_api.png)
 ---
