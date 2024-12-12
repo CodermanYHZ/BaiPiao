@@ -108,3 +108,42 @@ Chatbox是一款大模型对话平台，可以调用几乎所有平台的大模�
 **API调用试例：**
 ![Chatbox_api](https://github.com/CodermanYHZ/BaiPiao/blob/main/image/chatbox_api.png)
 ---
+## 6. Grok2
+
+![Grok2](https://github.com/CodermanYHZ/BaiPiao/blob/main/image/grok2.png)
+
+**推荐指数：** 🌟🌟🌟🌟🌟（强大的AI助手）
+
+**工具介绍：**
+Grok2是一款智能AI助手，能够理解复杂的指令，并执行相应的任务。它支持多种编程语言，可以帮助开发者快速解决编程问题。
+
+**如何获取：**
+1. 访问Grok2官网：[grok2](https://x.ai/)
+2. 注册账号。
+3. 点击groke使用。
+
+**注意事项：**
+- 在线版不收费。
+- 调用API收费（每个月赠送25美元的token）
+
+---
+
+## 7. Gemini2 Flash Exp
+
+![Gemini2 Flash Exp](https://github.com/CodermanYHZ/BaiPiao/blob/main/image/gemini2.png)
+
+**推荐指数：** 🌟🌟🌟🌟🌟（创新的AI模型）
+
+**工具介绍：**
+Gemini 2 Flash Exp是一个创新的AI模型，专门用于快速实验和原型设计。它支持多种数据类型，可以帮助用户快速测试和验证AI模型。
+
+**如何获取：**
+1. 访问Gemini官网：[gemini](https://gemini.google.com/app)
+2. 注册一个账号。
+3. 下拉选择2.0 Flash Experimental模型
+
+**注意事项：**
+- 目前免费使用。
+- API也免费使用（申请需要去[Google AI studio](https://aistudio.google.com/prompts/new_chat)）
+ 
+---
