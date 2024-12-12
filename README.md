@@ -27,7 +27,7 @@ Cursor是一款强大的AI编程助手，旨在帮助开发者提高编码效率
 **被封机器码：**
 1. 彻底关闭cursor
 2. 找到 AppData\Roaming\Cursor\User\globalStorage\storage.json 这个文件并用记事本打开
-3. 在终端运行 [changeID.py](https://github.com/CodermanYHZ/BaiPiao/blob/main/path/to/changeID.py) 代码代码
+3. 在终端运行 [changeID.py](https://github.com/CodermanYHZ/BaiPiao/blob/main/changeID.py) 代码代码
 4. 找到记事本中对应的机器码名称进行替换即可
 
 ---
