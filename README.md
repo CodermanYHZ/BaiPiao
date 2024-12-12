@@ -93,10 +93,13 @@ SiliconFlow是一个在线AI模型平台，它提供了目前所有开源大模�
 
 ## 5. Chatbox
 
-![Chatbox](https://via.placeholder.com/150)
+![Chatbox](https://github.com/CodermanYHZ/BaiPiao/blob/main/image/chatbox.png)
+
+**推荐指数：**
+♥♥♥♥♥♥♥（致敬作者能够做出这么好用的调用API的聊天平台）
 
 **软件介绍：**
-Chatbox是一款智能对话机器人软件，适用于客服、营销等多个场景。它支持自定义对话流程、集成多种API，并能通过机器学习不断优化对话效果。
+Chatbox是一款大模型对话平台，可以调用几乎所有平台的大模型的API，页面机器简介明了，功能也很丰富，隐私性很强。
 
 **如何置入自己的API：**
 1. 下载并安装Chatbox软件：[chatbox.io](https://chatbox.io)
