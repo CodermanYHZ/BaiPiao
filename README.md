@@ -8,6 +8,9 @@
 
 ![Cursor](https://github.com/CodermanYHZ/BaiPiao/blob/main/image/cursor.png)
 
+**推荐指数：**
+♥♥♥♥♥♥♥♥♥♥（极力推荐）
+
 **工具介绍：**
 Cursor是一款强大的AI编程助手，旨在帮助开发者提高编码效率。它能够自动生成代码、提供代码建议、优化现有代码，并支持多种编程语言。无论是初学者还是资深开发者，Cursor都能大幅提升编程体验。
 
@@ -26,13 +29,16 @@ Cursor是一款强大的AI编程助手，旨在帮助开发者提高编码效率
 1. 彻底关闭cursor
 2. 找到 AppData\Roaming\Cursor\User\globalStorage\storage.json 这个文件并用记事本打开
 3. 在终端运行 [changeID.py](https://github.com/CodermanYHZ/BaiPiao/blob/main/changeID.py) 代码代码
-4. 找到记事本中对应的机器码名称进行替换即可
+4. 找到记事本中对应的机器码名称进行替换即可（存在被封机器的风险，建议直接充值）
 
 ---
 
 ## 2. Windsurf
 
-![Windsurf](https://via.placeholder.com/150)
+![Windsurf](https://github.com/CodermanYHZ/BaiPiao/blob/main/image/windsurf.png)
+
+**推荐指数：**
+♥♥♥♥♥（可作为cursor的备胎）
 
 **工具介绍：**
 Windsurf也是一款强大的AI编程助手，旨在帮助开发者提高编码效率。它能够自动生成代码、提供代码建议、优化现有代码，并支持多种编程语言。
@@ -45,17 +51,21 @@ Windsurf也是一款强大的AI编程助手，旨在帮助开发者提高编码�
 
 **注意事项：**
 1. 免费版200个高级模型的对话机会（不会随时间刷新）
+
 ---
 
 ## 3. SiliconFlow
 
-![SiliconFlow](https://siliconflow.cn/zh-cn/)
+![SiliconFlow](https://github.com/CodermanYHZ/BaiPiao/blob/main/image/siliconflow.png)
+
+**推荐指数：**
+♥♥♥♥♥♥♥♥♥♥（没钱党的福音）
 
 **工具介绍：**
 SiliconFlow是一个在线AI模型平台，它提供了目前所有开源大模型的体验以及API服务，显卡不好也能跑百亿级大模型。
 
 **如何白嫖：**
-1. 访问SiliconFlow官网
+1. 访问SiliconFlow官网: [siliconflow](https://siliconflow.cn/zh-cn/)
 2. 用手机号进行注册（国内即可）
 3. 然后填写邀请码 b3aPzW1A （大家觉得有用就多用我的邀请码，感谢！！！）
 4. 完成注册后会免费给你2000万token，且没有时间限制
@@ -63,19 +73,21 @@ SiliconFlow是一个在线AI模型平台，它提供了目前所有开源大模�
 
 ---
 
-## 4. 质谱AI最新免费模型
+## 4. 质谱AI最新模型
 
-![质谱AI](https://via.placeholder.com/150)
+![质谱AI](https://github.com/CodermanYHZ/BaiPiao/blob/main/image/zhipu.png)
+
+**推荐指数：**
+♥♥♥♥♥♥♥♥♥♥（第一个免费的视觉模型以及API，致敬质谱！！！）
 
 **产品介绍：**
 质谱AI最新免费模型是一款专为质谱数据分析设计的AI工具。它能够自动识别和解析质谱数据，提供高精度的结果分析，广泛应用于生物医学、化学研究等领域。
 
-**如何获取：**
-1. 访问质谱AI官网：[质谱AI.com](https://质谱AI.com)
-2. 在官网首页找到“免费模型”下载链接。
-3. 点击下载链接，按照提示完成下载。
-4. 下载后，根据提供的安装指南进行安装和配置。
-5. 安装完成后，即可免费使用该模型进行质谱数据分析。
+**如何获取（注意不是白嫖）：**
+1. 访问质谱AI官网：[质谱AI开放平台](https://open.bigmodel.cn/)
+2. 直接点击GLM-4V-Flash进入。
+3. 用手机号登录后。
+4. 点击控制台即可选择模型进行使用。
 
 ---
 
