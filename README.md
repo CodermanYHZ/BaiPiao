@@ -7,7 +7,7 @@
 
 ## 1. Cursor
 
-![Cursor](https://via.placeholder.com/150)
+![Cursor]([https://via.placeholder.com/150](https://github.com/CodermanYHZ/BaiPiao/blob/main/image/cursor.png))
 
 **工具介绍：**
 Cursor是一款强大的AI编程助手，旨在帮助开发者提高编码效率。它能够自动生成代码、提供代码建议、优化现有代码，并支持多种编程语言。无论是初学者还是资深开发者，Cursor都能大幅提升编程体验。
