@@ -4,20 +4,18 @@
 欢迎来到AI工具白嫖指南！以下是本周推荐的五个AI工具及其白嫖方法。
 
 ---
-
 ## 1. Cursor
 
-![Cursor]([https://via.placeholder.com/150](https://github.com/CodermanYHZ/BaiPiao/blob/main/image/cursor.png))
+![Cursor](https://github.com/CodermanYHZ/BaiPiao/blob/main/image/cursor.png)
 
 **工具介绍：**
 Cursor是一款强大的AI编程助手，旨在帮助开发者提高编码效率。它能够自动生成代码、提供代码建议、优化现有代码，并支持多种编程语言。无论是初学者还是资深开发者，Cursor都能大幅提升编程体验。
 
 **如何白嫖：**
 1. 访问Cursor官网：[cursor.com](https://www.cursor.com/)
-2. 用手机号
-3. 注册一个新账号。
-4. 然后下载cursor这个软件。
-5. 在软件内进行登录。
+2. 注册一个新账号。
+3. 然后下载cursor这个软件。
+4. 在软件内进行登录。
 
 **注意事项：**
 1. 一个机器只能注册三个账号（超出会封机器码）
@@ -37,33 +35,31 @@ Cursor是一款强大的AI编程助手，旨在帮助开发者提高编码效率
 ![Windsurf](https://via.placeholder.com/150)
 
 **工具介绍：**
-Windsurf是一款数据分析和可视化工具，适用于数据科学家和业务分析师。它提供了丰富的数据处理功能、直观的可视化界面，以及强大的机器学习集成，帮助用户轻松挖掘数据价值。
+Windsurf也是一款强大的AI编程助手，旨在帮助开发者提高编码效率。它能够自动生成代码、提供代码建议、优化现有代码，并支持多种编程语言。
 
 **如何白嫖：**
-1. 访问Windsurf官网：[windsurf.ai](https://windsurf.ai)
-2. 点击“免费注册”按钮。
-3. 填写注册信息，并选择“免费版”。
-4. 完成邮箱验证后，登录账号即可使用免费版功能。
-5. 免费版通常有一定使用限制，如数据量或功能模块，但基本能满足日常需求。
+1. 访问Windsurf官网：[windsurf](https://codeium.com/windsurf)
+2. 注册一个新账号
+3. 然后下载windsurf这个软件。
+4. 在软件内进行登录。
 
+**注意事项：**
+1. 免费版200个高级模型的对话机会（不会随时间刷新）
 ---
 
 ## 3. SiliconFlow
 
-![SiliconFlow](https://via.placeholder.com/150)
+![SiliconFlow](https://siliconflow.cn/zh-cn/)
 
 **工具介绍：**
-SiliconFlow是一个在线AI模型训练平台，专为机器学习工程师和研究人员设计。它提供了高性能的计算资源、丰富的算法库，以及友好的操作界面，简化了模型训练和部署流程。
-
-**新用户政策：**
-新用户注册后，可享受一定时长的免费试用，期间可免费使用平台的计算资源和部分高级功能。
+SiliconFlow是一个在线AI模型平台，它提供了目前所有开源大模型的体验以及API服务，显卡不好也能跑百亿级大模型。
 
 **如何白嫖：**
-1. 访问SiliconFlow官网：[siliconflow.com](https://siliconflow.com)
-2. 点击“注册”按钮，填写相关信息。
-3. 选择“免费试用”计划。
-4. 完成邮箱验证后，登录账号开始免费试用。
-5. 试用期内，尽量充分利用平台资源，完成必要的模型训练任务。
+1. 访问SiliconFlow官网
+2. 用手机号进行注册（国内即可）
+3. 然后填写邀请码 b3aPzW1A （大家觉得有用就多用我的邀请码，感谢！！！）
+4. 完成注册后会免费给你2000万token，且没有时间限制
+5. 每邀请一个人注册就会多给你2000万token
 
 ---
 
