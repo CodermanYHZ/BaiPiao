@@ -4,7 +4,7 @@
 
 ---
 
-## 1. Cursor
+## 1. Cursor 编程式AI工具
 
 ![Cursor](https://github.com/CodermanYHZ/BaiPiao/blob/main/image/cursor.png)
 
@@ -32,7 +32,7 @@ Cursor是一款强大的自然语言编程助手，会打字就能开发软件�
 
 ---
 
-## 2. Windsurf
+## 2. Windsurf 编程式AI工具
 
 ![Windsurf](https://github.com/CodermanYHZ/BaiPiao/blob/main/image/windsurf.png)
 
@@ -52,7 +52,62 @@ Windsurf也是一款强大的自然语言编程助手，可作为cursor的备胎
 
 ---
 
-## 3. SiliconFlow
+## 3. GLM-4-Flash & GLM-4V-Flash 大模型
+
+![质谱AI](https://github.com/CodermanYHZ/BaiPiao/blob/main/image/zhipu.png)
+
+**推荐指数：** 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟（第一个免费的视觉模型以及API，致敬质谱！！！）
+
+**产品介绍：**
+质谱AI是国内最好的视觉识别模型提供机构，并且也是世界上第一个提供免费完全免费的视觉大模型API的机构，致敬！！！
+
+**如何获取：**
+1. 访问质谱AI官网：[质谱AI开放平台](https://www.bigmodel.cn/invite?icode=jr%2FlON11LFYxOWzfRSnoruZLO2QH3C0EBTSr%2BArzMw4%3D)
+2. 用手机号注册。
+3. 点击控制台即可选择模型进行使用。
+
+---
+
+## 4. Grok2 大模型
+
+![Grok2](https://github.com/CodermanYHZ/BaiPiao/blob/main/image/grok2.png)
+
+**推荐指数：** 🌟🌟🌟🌟🌟🌟🌟🌟（点赞马斯克开源精神）
+
+**工具介绍：**
+Grok2是一款智能AI大模型，据说编程能力比claude3.5 sonnect强。
+
+**如何获取：**
+1. 访问Grok2官网：[grok2](https://x.ai/)
+2. 注册账号。
+3. 点击groke使用。
+
+**注意事项：**
+- 在线版不收费。
+- 调用API收费（每个月赠送25美元的token）
+
+---
+
+## 5. Gemini2 Flash 大模型
+
+![Gemini2 Flash Exp](https://github.com/CodermanYHZ/BaiPiao/blob/main/image/gemini2.png)
+
+**推荐指数：** 🌟🌟🌟🌟🌟🌟🌟🌟（创新的全能AI模型）
+
+**工具介绍：**
+Gemini 2 Flash是一个创新的AI模型，可以多模态输入，也可以文本和图像混合输出，强大。
+
+**如何获取：**
+1. 访问Gemini官网：[gemini](https://gemini.google.com/app)
+2. 注册一个账号。
+3. 下拉选择2.0 Flash Experimental模型
+
+**注意事项：**
+- 目前免费使用。
+- API也免费使用（申请需要去[Google AI studio](https://aistudio.google.com/prompts/new_chat)）
+ 
+---
+## 6. SiliconFlow 超大模型运行平台
 
 ![SiliconFlow](https://github.com/CodermanYHZ/BaiPiao/blob/main/image/siliconflow.png)
 
@@ -69,24 +124,7 @@ SiliconFlow是一个在线AI模型平台，它提供了目前所有开源大模�
 5. 每邀请一个人注册就会多给你2000万token。
 
 ---
-
-## 4. 质谱AI
-
-![质谱AI](https://github.com/CodermanYHZ/BaiPiao/blob/main/image/zhipu.png)
-
-**推荐指数：** 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟（第一个免费的视觉模型以及API，致敬质谱！！！）
-
-**产品介绍：**
-质谱AI是国内最好的视觉识别模型提供机构，并且也是世界上第一个提供免费完全免费的视觉大模型API的机构，致敬！！！
-
-**如何获取：**
-1. 访问质谱AI官网：[质谱AI开放平台](https://www.bigmodel.cn/invite?icode=jr%2FlON11LFYxOWzfRSnoruZLO2QH3C0EBTSr%2BArzMw4%3D)
-2. 用手机号注册。
-3. 点击控制台即可选择模型进行使用。
-
----
-
-## 5. Chatbox
+## 7. Chatbox 大模型对话工具
 
 ![Chatbox](https://github.com/CodermanYHZ/BaiPiao/blob/main/image/chatbox.png)
 
@@ -107,43 +145,4 @@ Chatbox是一款大模型对话平台，可以调用几乎所有平台的大模�
 
 **API调用试例：**
 ![Chatbox_api](https://github.com/CodermanYHZ/BaiPiao/blob/main/image/chatbox_api.png)
----
-## 6. Grok2
-
-![Grok2](https://github.com/CodermanYHZ/BaiPiao/blob/main/image/grok2.png)
-
-**推荐指数：** 🌟🌟🌟🌟🌟（强大的AI助手）
-
-**工具介绍：**
-Grok2是一款智能AI助手，能够理解复杂的指令，并执行相应的任务。它支持多种编程语言，可以帮助开发者快速解决编程问题。
-
-**如何获取：**
-1. 访问Grok2官网：[grok2](https://x.ai/)
-2. 注册账号。
-3. 点击groke使用。
-
-**注意事项：**
-- 在线版不收费。
-- 调用API收费（每个月赠送25美元的token）
-
----
-
-## 7. Gemini2 Flash Exp
-
-![Gemini2 Flash Exp](https://github.com/CodermanYHZ/BaiPiao/blob/main/image/gemini2.png)
-
-**推荐指数：** 🌟🌟🌟🌟🌟（创新的AI模型）
-
-**工具介绍：**
-Gemini 2 Flash Exp是一个创新的AI模型，专门用于快速实验和原型设计。它支持多种数据类型，可以帮助用户快速测试和验证AI模型。
-
-**如何获取：**
-1. 访问Gemini官网：[gemini](https://gemini.google.com/app)
-2. 注册一个账号。
-3. 下拉选择2.0 Flash Experimental模型
-
-**注意事项：**
-- 目前免费使用。
-- API也免费使用（申请需要去[Google AI studio](https://aistudio.google.com/prompts/new_chat)）
- 
 ---
