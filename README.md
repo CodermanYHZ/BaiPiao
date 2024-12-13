@@ -1,6 +1,6 @@
 # AI工具白嫖指南
 
-欢迎来到AI工具白嫖指南！以下是本周推荐的五个AI工具及其白嫖方法。
+欢迎来到AI工具白嫖指南！以下是推荐的AI工具及其白嫖方法，每天都会更新！！！
 
 ---
 
@@ -146,3 +146,18 @@ Chatbox是一款大模型对话平台，可以调用几乎所有平台的大模�
 **API调用试例：**
 ![Chatbox_api](https://github.com/CodermanYHZ/BaiPiao/blob/main/image/chatbox_api.png)
 ---
+## 8. Dify 工作流式平台
+
+![Dify](https://github.com/CodermanYHZ/BaiPiao/blob/main/image/dify.png)
+
+**推荐指数：** 🌟🌟🌟🌟🌟🌟🌟🌟（创新式工作流平台，可以利用API把你做的任何工作流接入各种设备，非常厉害！！！）
+
+**软件介绍：**
+Dify是一款模块化0代码平台，可以与多种第三方服务和模型的无缝集成，并且可以生成API接入各种软件。
+
+**如何获取：**
+1. 网站：[dify](https://dify.ai/zh)
+2. 注册并且使用
+
+**注意事项：**
+- 多看dify的文档
