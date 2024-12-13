@@ -150,7 +150,7 @@ Chatbox是一款大模型对话平台，可以调用几乎所有平台的大模�
 
 ![Dify](https://github.com/CodermanYHZ/BaiPiao/blob/main/image/dify.png)
 
-**推荐指数：** 🌟🌟🌟🌟🌟🌟🌟🌟（创新式工作流平台，可以利用API把你做的任何工作流接入各种设备，非常厉害！！！）
+**推荐指数：** 🌟🌟🌟🌟🌟🌟🌟🌟（创新式工作流平台，可以利用API把你做的任何工作流接入各种软件，实现自动化运行，非常厉害！！！）
 
 **软件介绍：**
 Dify是一款模块化0代码平台，可以与多种第三方服务和模型的无缝集成，并且可以生成API接入各种软件。
@@ -161,3 +161,21 @@ Dify是一款模块化0代码平台，可以与多种第三方服务和模型的
 
 **注意事项：**
 - 多看dify的文档
+- 免费版只有200次的运行机会，不会随时间刷新
+---
+## 9. Fitten code 编程式AI工具
+
+![Fittencode](https://github.com/CodermanYHZ/BaiPiao/blob/main/image/fittencode.png)
+
+**推荐指数：** 🌟🌟🌟🌟🌟🌟（免费使用且模型是GPT4！！）
+
+**软件介绍：**
+Fitten code是一款基于VScode的AI辅助编程插件，还有直接预览功能，编程能力还行，据说自动补全功能很贴合编程者的想法
+
+**如何获取：**
+1. 网站：[Fitten code](https://code.fittentech.com/)
+2. 点击自己的编辑器版本按照文档去下载使用
+
+**注意事项：**
+- 理解上下文能力偏弱
+- 改BUG的能力偏弱
