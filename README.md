@@ -179,3 +179,20 @@ Fitten code是一款基于VScode的AI辅助编程插件，还有直接预览功�
 **注意事项：**
 - 理解上下文能力偏弱
 - 改BUG的能力偏弱
+---
+## 10. Google lab 图片生成工具
+
+![imageFX](https://github.com/CodermanYHZ/BaiPiao/blob/main/image/imageFX.png)
+
+**推荐指数：** 🌟🌟🌟🌟🌟🌟🌟🌟🌟（强大，没有comfyui什么事情了）
+
+**软件介绍：**
+imageFX是谷歌实验式下的一款图片生成加编辑工具，直出4K高清图片，还可以对图片区域进行编辑，强的离谱
+
+**如何获取：**
+1. 网站：[imageFX](https://labs.google/fx/zh/tools/image-fx)
+2. 设置提示词直接点击生成
+
+**注意事项：**
+- 提示词需要用英文
+- 目前没有限制次数，赶快白嫖吧
